@@ -12,9 +12,9 @@ O sistema permite que apenas usuários autenticados possam acessar as funcionali
 
 # 2. Equipe
 
-- Marcos Gustavo
 - Heloísa Pereira
 - Jullyane Sandra
+- Marcos Gustavo
 - Maria Luiza
 
 ---
